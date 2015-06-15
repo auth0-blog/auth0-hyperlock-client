@@ -1,0 +1,26 @@
+{
+  "name": "auth0-hyperlock-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth0/auth0-hyperlock-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auth0/auth0-hyperlock-client/issues"
+  },
+  "homepage": "https://github.com/auth0/auth0-hyperlock-client",
+  "dependencies": {
+    "wreck": "^5.5.1"
+  },
+  "devDependencies": {
+    "async": "^1.2.1",
+    "jsonwebtoken": "^5.0.1"
+  }
+}
